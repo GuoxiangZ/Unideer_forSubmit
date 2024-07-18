@@ -1,2 +1,5 @@
-# Unideer_forSubmit
-Adventure X，鹿小申项目组提交的项目描述。
+# Unideer 鹿小申
+##项目背景与市场
+在出国留学人数不断增长的大背景下，大学申请者面临着管理大量的信息的压力，不能轻松的统筹安排申请准备，成绩准备，背景提升等任务。同时还存在资源缺失，信息缺失的问题。造成部分学生信息匮乏，丧失许多宝贵的机会。
+<img width="912" alt="截屏2024-07-19 06 01 24" src="https://github.com/user-attachments/assets/9c66af4c-4d97-4b5b-b9be-ccf62db13ce5">
+
